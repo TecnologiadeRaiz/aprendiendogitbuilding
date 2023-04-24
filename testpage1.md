@@ -14,4 +14,4 @@
 * Find the [screwdriver][No. 2 Phillips screwdriver]{Qty: 1, Cat: tool} again
 * Take two more [M4x10 screws]{Qty: 2} and screw them into the same widget
 
-funca? (dab)
+funca? 1 (dab)
