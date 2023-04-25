@@ -17,7 +17,5 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 * [.](Prototipado.md){step}
 * [.](partes_plasticas.md){step}
 
-Acá habría una lista de materiales que se muestra de distinta forma [lista de materiales]{BOM}.
-
 ---
 Nos motiva compartir conocimiento empoderante que facilite la apropiación tecnológica, y es por eso que trabajamos en el registro de nuestros procesos productivos, para poder compartirlos.
