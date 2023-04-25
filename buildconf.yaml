@@ -1,20 +1,19 @@
 # Recommended information
 Authors:
-    - Nosotres!
+    - Tecnología de Raíz
 
+Affiliation: Aprendemos Haciendo
 
-Affiliation: TdR
+License: CERN-OHL-1.2
 
-#License: CERN-OHL-1.2
-
-Email:
+Email: my-email@my.domain
 
 
 #Uncomment below to add custom categories
-#CustomCategories:
-#    printedtool:
-#        Reuse: False
-#        DisplayName: Printed tools
+CustomCategories:
+    printedtool:
+        Reuse: False
+        DisplayName: Printed tools
 
 #Uncomment below to set a custom default category
 #DefaultCategory: printedtool

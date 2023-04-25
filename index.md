@@ -1,10 +1,17 @@
-# Proyecto de Prueba
+#  Tecnología De Raíz
 
-This is a great place to start making your documentation!
+![](https://i.imgur.com/GyKBlpb.jpg)
+## Apropiación tecnológica desde aquí.
 
-You should link to a couple of pages:
+* [.](presentacion.md){step}
+* [.](paso_a_paso_sectorial.md){step}
+* [.](Diseno_de_soporte_para_guia_de_ondas.md){step}
+* [.](diseno_antena_direccional.md){step}
+* [.](Como_hacer_una_antena.md){step}
+* [.](Prototipado.md){step}
+* [.](partes_plasticas.md){step}
 
-* [.](testpage1.md){step}
-* [.](testpage2.md){step}
+Acá habría una lista de materiales que se muestra de distinta forma [lista de materiales]{BOM}.
 
-And you should definitely let people know about the [bill of materials]{BOM} page.
+---
+Nos motiva compartir conocimiento empoderante que facilite la apropiación tecnológica, y es por eso que trabajamos en el registro de nuestros procesos productivos, para poder compartirlos.
