@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+-->
+
 #    Partes plásticas
 - En este material mostraremos los diseños y planos de las partes plásticas que complementan el proceso de producción de las antenas
 <p>

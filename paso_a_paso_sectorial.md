@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+-->
+
 # Una idea de cómo hacer el diseño de tu antena sectorial
 "Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardware en los territorios, de forma accesible."
 

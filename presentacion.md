@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+-->
+
 # Te contamos de dónde partimos
 <img src="https://i.imgur.com/GyKBlpb.jpg" align=center width="300" height="250">
 
