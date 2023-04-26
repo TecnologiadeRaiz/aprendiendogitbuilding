@@ -42,14 +42,11 @@ Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barri
 
 - [x] Utilizamos para eso un espacio de taller con una cantidad limitada de herramientas, que nos permiten desarrollar nuestra producción, pero nos gustaría poder mejorarlo, tanto en lo edilicio como sumando máquinas y herramientas.
 
-
 <img src="https://i.imgur.com/ljebrYh.jpg" width=200 heingth=180> <img src="https://i.imgur.com/EsKhwjh.jpg" width="180" height="200"> <img src="https://i.imgur.com/iYsBOGX.jpg" width="180" height="200"> <img src="https://i.imgur.com/3yWspAI.jpg" width="200" height="180">
 
 ---
        Comenzamos el camino de investigación construyendo antenas doble biquad
-<img src="https://i.imgur.com/vWV7acY.jpg" width=200 heingth=180> <img src="https://i.imgur.com/lvkdowg.jpg" width=200 heingth=180> <img src="https://i.imgur.com/NS17Tfq.jpg" width=200 heingth=180> 
-
-<img src="https://i.imgur.com/xDR5DUN.jpg" width=200 heingth=180> <img src="https://i.imgur.com/pLAnDUg.jpg" width=200 heingth=180> <img src="https://i.imgur.com/13lidiH.jpg" width=200 heingth=180> 
+<img src="https://i.imgur.com/vWV7acY.jpg" width=200 heingth=180> <img src="https://i.imgur.com/lvkdowg.jpg" width=200 heingth=180> <img src="https://i.imgur.com/NS17Tfq.jpg" width=200 heingth=180> <img src="https://i.imgur.com/xDR5DUN.jpg" width=200 heingth=180> <img src="https://i.imgur.com/pLAnDUg.jpg" width=200 heingth=180> <img src="https://i.imgur.com/13lidiH.jpg" width=200 heingth=180> 
 
        Alguna de las cuales se encuentran instaladas en la red MonteNet 
        ayudando a mejorar el enlace entre nodos.
